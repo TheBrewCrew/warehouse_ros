@@ -40,6 +40,8 @@
 #include <warehouse_ros/database_connection.h>
 #include <pluginlib/class_loader.h>
 
+#include <boost/scoped_ptr.hpp>
+
 namespace warehouse_ros
 {
 
